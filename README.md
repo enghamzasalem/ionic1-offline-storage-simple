@@ -10,5 +10,4 @@ ionic serve
 to build :
 ```
 ionic cordova build android 
-
 ```
